@@ -1,5 +1,5 @@
 # About-Me
-- 👋 Hi, I’m @indramaha
+- 👋 Hi, I’m @indramaha AKA Bagus
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning JavaScript & GoLang
 
